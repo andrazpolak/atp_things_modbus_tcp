@@ -1,0 +1,27 @@
+{
+  "name": "atp_things_modbus_tcp",
+  "version": "1.0.0",
+  "description": "ATP Things - Modbus TCP communication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src",
+    "test": "./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrazpolak/atp_things_modbus_tcp.git"
+  },
+  "keywords": [
+    "ATP_Things",
+    "IoT",
+    "IIoT",
+    "Modbus",
+    "TCP"
+  ],
+  "author": "Andraz Polak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrazpolak/atp_things_modbus_tcp/issues"
+  },
+  "homepage": "https://github.com/andrazpolak/atp_things_modbus_tcp#readme"
+}
